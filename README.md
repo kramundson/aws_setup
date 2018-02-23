@@ -75,7 +75,7 @@ image:
 
 18. Click "New", and select "Terminal" from the drop down menu
 
-![alt text](https://github.com/kramundson/aws_setup/blob/master/step18.png)
+![alt text](https://github.com/kramundson/aws_setup/blob/master/pictures/step18.png)
 
 19. Type "bash" into the terminal window-looking thing in the new tab. Hit Enter
 
