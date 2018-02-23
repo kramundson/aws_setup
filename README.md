@@ -1,4 +1,4 @@
-# How to set up an Amazon Web Services computer (a virtual "instance"):
+### How to set up an Amazon Web Services computer (a virtual "instance"):
 
 This page shows you how to create a new "AWS instance", or a running computer
 In a web browser, navigate to https://aws.amazon.com/ and log in using your credentials
